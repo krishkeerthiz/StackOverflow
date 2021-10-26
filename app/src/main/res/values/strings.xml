@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StackOverflow</string>
+    <string name="sample_text">Sample Text</string>
+    <string name="filter">Filter</string>
+    <string name="yet_to_implement">Yet to implement </string>
+    <string name="search_hint">Search by Question and Names</string>
+    <string name="average_view">Average View Count</string>
+    <string name="average_answer">Average Answer Count</string>
+    <string name="count">0.0</string>
+</resources>
